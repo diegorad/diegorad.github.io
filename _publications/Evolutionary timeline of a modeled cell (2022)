@@ -1,0 +1,13 @@
+---
+title: "Evolutionary timeline of a modeled cell"
+collection: publications
+date: 2022-11-07
+venue: 'Journal of Theoretical Biology'
+paperurl: 'https://doi.org/10.1016/j.jtbi.2022.111233'
+---
+
+[Preprint version here](https://arxiv.org/abs/2201.10007)
+
+## Abstract
+
+A theoretical study of cell evolution is presented here. By using a toolbox containing an intracellular catalytic reaction network model and a mutation–selection process, four distinct phases of self-organization were unveiled. First, the nutrients prevail as the central substrate of the chemical reactions. Second, the cell becomes a small-world. Third, a highly connected core component emerges, concurrently with the nutrient carriers becoming the central product of reactions. Finally, the cell reaches a steady configuration where the concentrations of the core chemical species are described by Zipf’s law.
