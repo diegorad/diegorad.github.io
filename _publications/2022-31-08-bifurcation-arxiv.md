@@ -1,5 +1,5 @@
 ---
-title: "Bifurcation in cellular evolutions"
+title: "Bifurcation in cellular evolution"
 link: 'https://arxiv.org/abs/2208.14973'
 collection: 'preprint'
 permalink:
