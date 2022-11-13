@@ -5,10 +5,13 @@ collection: publications
 permalink:
 date: 2022-11-07
 venue: 'Journal of Theoretical Biology'
-paperurl: 'https://doi.org/10.1016/j.jtbi.2022.111233'
+paperurl:
+excerpt: "A theoretical study of cell evolution is presented here."
 ---
 
 [Preprint version available here](https://arxiv.org/abs/2201.10007)
+
+Halo
 
 ## Abstract
 
