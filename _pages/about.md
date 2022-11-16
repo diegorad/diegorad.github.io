@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Under construction...
+Currently under construction. Publications tab is near complete.
