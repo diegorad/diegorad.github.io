@@ -10,4 +10,4 @@ redirect_from:
 
 Currently under construction.
 
-The 'Publications' tab as well as contact information and links in the left panel are completed.
+The 'Publications' tab and contact links in the left panel are completed.
