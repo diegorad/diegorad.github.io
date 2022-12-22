@@ -1,7 +1,5 @@
 ---
-title: "CellNetSIm"
-excerpt: "An intracellular catalytic reaction network model. This implementation was developed for the research work described in the articles Evolutionary timeline of a modeled cell (2022) and Biurcation in cellular evolution (2022). <br/><img src='/images/500x300.png'>"
-collection: projects
+title: "CellNetSim"
+excerpt: "An evolutionary intracellular catalytic reaction network model. This implementation was developed for the research work described in the articles [Evolutionary timeline of a modeled cell (2022)](https://doi.org/10.1016/j.jtbi.2022.111233) and [Biurcation in cellular evolution (2022)](https://arxiv.org/abs/2208.14973). <br/><img src='/images/cellAnim.png'>"
+collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
