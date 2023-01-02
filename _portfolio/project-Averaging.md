@@ -1,5 +1,5 @@
 ---
 title: "Averaging-method"
-excerpt: "Fast and simple method to approximate steady-state temperature distributions over irregular surfaces. <br/><img src='/images/Averaging-example.png' width='50%'/>"
+excerpt: "Fast and simple method to approximate steady-state temperature distributions over irregular surfaces. <br/><img src='/images/Averaging-example.png' alt='example' width='50%'/>"
 collection: portfolio
 ---
