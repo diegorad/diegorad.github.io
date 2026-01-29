@@ -1,7 +1,7 @@
 ---
 title: "Bifurcation in cellular evolution"
 link: 'https://doi.org/10.1016/j.physa.2023.128569'
-collection: 'published'
+collection: 'publications'
 permalink:
 date: 2022-11-07
 venue: 'Physica A'
