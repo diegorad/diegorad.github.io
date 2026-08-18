@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2018 - 2022 : Part-time high-school teacher
+* 2018 - 2022 : High-school teacher
   * Instituto Tecnológico de Monterrey, Campus Guadalajara
   
 Skills
@@ -32,6 +32,7 @@ Skills
   * Microscopy
 * Development of computatiional models
 * Data analysis
+* Analog and digital electronics
 
 Publications
 ======
