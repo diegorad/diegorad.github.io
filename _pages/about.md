@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-*Jan 2 2023 - Currently under construction.*
+*Sep 2026 - Currently under construction.*
 
 On this page I will log the academic work in which I participate, provide my contact information and links to the repositories of my coding projects.
 
-The **Publications** and **Projects** tab are now completed. Contact links are avaible on the left panel.
+**Publications**, **Projects**, **Talks** and **CV** tabs are now populated. Contact links are avaible on the left panel.
