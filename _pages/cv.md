@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2018 - 2022 : High-school teacher
+* 2018 - 2019, 2021 - 2022 : High-school teacher
   * Instituto Tecnológico de Monterrey, Campus Guadalajara
   
 Skills
